@@ -136,7 +136,7 @@
     },
     {
       "titulo": "Policial",
-      "cor": "#0000CD",
+      "cor": "#3CB371",
       "link_extra": {
         "text": "Os melhores filmes policiais nacionais!",
         "url": ""
@@ -166,7 +166,7 @@
     },
     {
       "titulo": "Reconhecidos internacionalmente",
-      "cor": "#0000FF",
+      "cor": "#2E8B57",
       "link_extra": {
         "text": "Os melhores nacionais reconhecidos internacionalmente",
         "url": "https://www.msn.com/pt-br/cinema/noticias/20-filmes-brasileiros-reconhecidos-internacionalmente/ss-BBH7QOW#image=3"
