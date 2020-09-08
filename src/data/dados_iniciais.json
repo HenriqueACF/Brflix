@@ -1,0 +1,210 @@
+{
+  "categorias": [
+    {
+      "titulo": "Melhores da Década",
+      "link": "",
+      "cor": "#008000",
+      "link_extra": {
+        "text": "Os melhores nacionais!",
+        "url": "https://canaltech.com.br/cinema/os-10-melhores-filmes-brasileiros-da-decada-159291/"
+      },
+      "videos": [
+        {
+          "titulo": "Eleito o melhor filme nacional pela Associação Brasileira de Críticos de cinema(ABRACCINE)",
+          "url": "https://youtu.be/-YfncdKsAqs"
+        },
+        {
+          "titulo": " Bacurau ",
+          "url": "https://youtu.be/qlheaoLnewE"
+        },
+        {
+          "titulo": "Tinta Bruta ",
+          "url": "https://youtu.be/zM9Q36ZKJqY"
+        },
+        {
+          "titulo": "Como Nossos Pais",
+          "url": "https://youtu.be/2qA-UlpskAY"
+        },
+        {
+          "titulo": "O Silêncio do Céu",
+          "url": "https://youtu.be/frY3iDxzNlE"
+        },
+        {
+          "titulo": "Última Conversas",
+          "url": "https://youtu.be/VYt77oTefCE"
+        },
+        {
+          "titulo": "Sinfonia da Necrópole",
+          "url": "https://youtu.be/h57r5FWrVwA"
+        },
+        {
+          "titulo": " O Lobo Atrás da Porta",
+          "url": "https://youtu.be/wrHMaVz7EZE"
+        },
+        {
+          "titulo": "O Som ao Redor",
+          "url": "https://youtu.be/rj0eeHW7lXU"
+        },
+        {
+          "titulo": "As Canções",
+          "url": "https://youtu.be/XxckBHKLluU"
+        },
+        {
+          "titulo": " Terra Deu, Terra Come",
+          "url": "https://youtu.be/txxMiVja0FU"
+        }        
+      ]
+    },
+    {
+      "titulo": "Drama",
+      "cor": "#006400",
+      "link_extra": {
+        "text": "Os melhores dramas nacionais!",
+        "url": "https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE"
+      },
+      "videos": [
+        {
+          "titulo": "Limite",
+          "url": "https://www.youtube.com/watch?v=We2Dyk9zmDU"
+        },
+        {
+          "titulo": "Deus e o Diabo na Terra do Sol",
+          "url": "https://www.youtube.com/watch?v=QEsoB05RjGs"
+        },
+        {
+          "titulo": "Vidas Secas",
+          "url": "https://www.youtube.com/watch?v=8gMmg1tNgfM"
+        },
+        {
+          "titulo": "Cabra Marcado para Morrer",
+          "url": "https://youtu.be/VW-q2ZYDE9k"
+        }, 
+        {
+          "titulo": "Terra em Transe",
+          "url": "https://youtu.be/hkITr_eK9Vc"
+        }
+      ]
+    },
+    {
+      "titulo": "Documentário",
+      "cor": "#2E8B57",
+      "link_extra": {
+        "text": "Os melhores documentários nacionais!",
+        "url": "http://revistadecinema.com.br/2017/04/100-melhores-documentarios-brasileiros/"
+      },
+      "videos": [
+        {
+          "titulo": "Cabra Marcado para Morrer",
+          "url": "https://youtu.be/VW-q2ZYDE9k"
+        },
+        {
+          "titulo": "Jogo de Cena,",
+          "url": "https://youtu.be/i2UbAt6lTL8"
+        },
+        {
+          "titulo": "Santiago",
+          "url": "https://youtu.be/DemlR3Z6DRE"
+        },
+        {
+          "titulo": "Edifício Master",
+          "url": "https://youtu.be/6nSlTXH21vs"
+        }
+      ]
+    },
+    {
+      "titulo": "Comédia",
+      "cor": "#FFD700",
+      "videos": [
+        {
+          "titulo": "O Auto da Compadecida",
+          "url": "https://youtu.be/x7ISUk6Y35Q"
+        },
+        {
+          "titulo": "De pernas pro ar",
+          "url": "https://youtu.be/BLbxNDADgBs"
+        },
+        {
+          "titulo": "Até que a sorte nos separe",
+          "url": "https://youtu.be/dAnzuTb-A8k"
+        },
+        {
+          "titulo": "Minha mãe é uma peça",
+          "url": "https://youtu.be/HrST-4WLlbA"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Policial",
+      "cor": "#0000CD",
+      "link_extra": {
+        "text": "Os melhores filmes policiais nacionais!",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Tropa de elite",
+          "url": "https://www.youtube.com/watch?v=_V_nZNWPYQk"
+        },
+        {
+          "titulo": "Tropa de elite 2",
+          "url": "https://youtu.be/-JbE6rjjyD8"
+        },
+        {
+          "titulo": "LUCIO FLAVIO, O PASSAGEIRO DA AGONIA",
+          "url": "https://youtu.be/m1YVv5wnvjo"
+        },
+        {
+          "titulo": "Verônica",
+          "url": "https://youtu.be/SHgOYSzmcjY"
+        },
+        {
+          "titulo": "2 COELHOS",
+          "url": "https://youtu.be/vB0CG6LvuiU"
+        }
+      ]
+    },
+    {
+      "titulo": "Reconhecidos internacionalmente",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Os melhores nacionais reconhecidos internacionalmente",
+        "url": "https://www.msn.com/pt-br/cinema/noticias/20-filmes-brasileiros-reconhecidos-internacionalmente/ss-BBH7QOW#image=3"
+      },
+      "videos": [
+        {
+          "titulo": "Central Brasil",
+          "url": "https://youtu.be/lARFBFxjLNI"
+        },
+        {
+          "titulo": "Que Horas Ela Volta?",
+          "url": "https://youtu.be/Dffs46VCJ_g"
+        },
+        {
+          "titulo": "Hoje Eu Quero Voltar Sozinho",
+          "url": "https://youtu.be/lpHKXyko358"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "O Palhaço",
+          "url": "https://youtu.be/H5qReKA8sD0"
+        },
+        {
+          "titulo": "Carandiru",
+          "url": "https://youtu.be/BdLvrNz9tUk"
+        },
+        {
+          "titulo": "Tropa de elite",
+          "url": "https://www.youtube.com/watch?v=_V_nZNWPYQk"
+        },
+        {
+          "titulo": "Cidade de Deus",
+          "url": "https://youtu.be/nBWtTrLxUjM"
+        }
+      ]
+    }
+  ]
+}
