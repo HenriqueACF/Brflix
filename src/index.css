@@ -26,6 +26,12 @@
   ::-webkit-scrollbar {
     width: 12px;
 }
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop)); 
+  display: flex;
+  flex-direction: column;
+}
   
 ::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
