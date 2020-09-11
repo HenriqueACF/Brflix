@@ -1,0 +1,21 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Teste",
+        "cor": "#008000",
+        "link_extra": {
+          "text": "teste",
+          "url": "https://www.google.com.br"
+        }
+      }
+     ],
+    "videos": [
+      {
+        "id": 2,
+        "categoriaId": 1,
+        "titulo": "teste 2",
+        "url": "https://www.youtube.com"
+      }
+    ]
+  }
